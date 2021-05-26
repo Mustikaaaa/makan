@@ -108,7 +108,7 @@ echo "   - Telegram                : T.me/vpnneo"  | tee -a log-install.txt
 echo "   - Instagram               : @nandunkz"  | tee -a log-install.txt
 echo "   - Whatsapp                : 081228820220"  | tee -a log-install.txt
 echo "   - Facebook                : https://www.facebook.com/nandunk.hazel" | tee -a log-install.txt
-echo "------------------Script Created By vpnneo.com-----------------" | tee -a log-install.txt
+echo "------------------Script Created By geonoky-----------------" | tee -a log-install.txt
 echo ""
 cd /root/
 rm -f log-install.txt
